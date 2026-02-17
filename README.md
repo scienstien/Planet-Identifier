@@ -16,7 +16,26 @@ Due to size constraints, the dataset is not included in this repository.
 - Evaluation: accuracy, confusion matrix, precision, recall, F1-score  
 
 ## Results
-Training curves and confusion matrices are provided in the `results/` directory.
+Training curves and confusion matrices are provided in the results/ director
+## 📊 Training Curves
+
+![Training Curves](results/training_curves.png)
+
+---
+
+## 🔍 Confusion Matrix
+
+![Confusion Matrix](results/confusion_matrix.png)
+
+---
+
+## 🖼 Sample Predictions
+
+Green = Correct  
+Red = Incorrect  
+
+![Sample Predictions](results/sample_predictions.png)
+
 
 ## Setup for running locally
 Note : You will need to change the address of datasets accordingly and comment out/delete the cell about mounting google drive to google collab
