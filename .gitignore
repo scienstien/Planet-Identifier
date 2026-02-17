@@ -1,0 +1,34 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (don’t upload raw data)
+data/
+Planet Detection.v1i.yolov4pytorch/
+
+# Model weights / checkpoints
+*.pt
+*.pth
+
+# Results that are too big (keep images, not huge binaries)
+results/*.ckpt
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE stuff
+.vscode/
+.idea/
+
+# Logs
+*.log
