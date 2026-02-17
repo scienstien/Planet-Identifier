@@ -25,7 +25,7 @@ Training curves and confusion matrices are provided in the results/ director
 
 ## 🔍 Confusion Matrix
 
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/Confusion_Matrix.png)
 
 ---
 
